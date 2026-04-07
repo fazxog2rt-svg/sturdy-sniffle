@@ -1,0 +1,48 @@
+{
+  "users": {
+    "120363425505840257@g.us": {
+      "name": "User",
+      "koin": 100,
+      "level": 1
+    },
+    "213567601152204@lid": {
+      "name": ".",
+      "koin": 100,
+      "level": 1
+    },
+    "120363425462650059@g.us": {
+      "name": "User",
+      "koin": 100,
+      "level": 1,
+      "lastChat": 1775560749307,
+      "xp": null
+    },
+    "120363426009745078@g.us": {
+      "name": "Antum",
+      "koin": 100,
+      "level": 1,
+      "todos": [],
+      "lastChat": 1775560765696
+    },
+    "280642340278274@lid": {
+      "koin": 100,
+      "warnings": 0
+    }
+  },
+  "global": {
+    "totalSholawat": 0,
+    "lastUpdate": "07/04/2026"
+  },
+  "groups": {
+    "120363425462650059@g.us": {
+      "sholatCity": "",
+      "warnings": {
+        "213567601152204@lid": 4
+      }
+    },
+    "120363426009745078@g.us": {
+      "sholatCity": "",
+      "warnings": {}
+    }
+  }
+}
