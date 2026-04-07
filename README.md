@@ -62,4 +62,4 @@ Jika ingin bot tetap aktif saat laptop dimatikan, ikuti langkah ini:
    - Scan QR lewat layar yang tersedia di panel tersebut.
 
 ---
-Dibuat dengan ❤️ oleh Antigravity.
+Dibuat dengan ❤️ oleh NextGen Studio.
